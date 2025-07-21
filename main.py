@@ -1,1 +1,1 @@
-print('dfvgyukyvhjcxghf hjfbvkjbvkwugfvb')
+print('Hello Kyrgyzstan')
