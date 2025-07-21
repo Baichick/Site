@@ -1,1 +1,7 @@
-print('Hello Kyrgyzstan')
+fljkdjbg
+ dkjbgnbljk
+ bnldegbn
+ dgbnedoibn
+ edljb
+ bdbd
+ bd()
