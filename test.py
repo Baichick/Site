@@ -1,5 +1,1 @@
-ygujbfujf  
-dfhhsfjy
-jsrhfghsryj
-rjrsyj
-ryj
+print('hello world')
